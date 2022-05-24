@@ -1,4 +1,4 @@
-# Zsh Intaller
+# Zsh Installer
 
 Install Zsh with useful configuration and tools including:
 
